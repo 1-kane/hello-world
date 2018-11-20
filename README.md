@@ -8,3 +8,6 @@
 <hr>
 ## Note: This is purely to understand the system i'm going to work with. Pls ignore
 <hr color= "black">
+
+
+> i've found a source of new knowledge for me 
